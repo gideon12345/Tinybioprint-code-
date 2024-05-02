@@ -1,0 +1,949 @@
+2023-10-16 15:34:06::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::Testing file logging...
+2023-10-16 15:34:11::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:13::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:14::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:15::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:16::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:18::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Perm PrinterName:Microsoft XPS Document Writer
+2023-10-16 15:34:19::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:20::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:20::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn (Copy 1)
+2023-10-16 15:34:22::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-16 15:34:40::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:34:40::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:34:40::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:34:55::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:02::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:02::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:06::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:35:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:08::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:35:11::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:35:11::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:35:12::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:14::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:14::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:15::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:35:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:17::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:35:21::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:22::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:22::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:24::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:35:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:25::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:35:29::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:31::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:31::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:32::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:35:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:34::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:35:37::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:35:37::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:35:38::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:40::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:40::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:41::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:35:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:43::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:35:47::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:48::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:48::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:50::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:35:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:51::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:35:55::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:35:57::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:35:57::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:35:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:35:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:35:58::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:35:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:35:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:00::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:04::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:06::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:06::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:07::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:09::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:09::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:09::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:09::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:09::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:12::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:12::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:13::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:15::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:15::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:16::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:17::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:22::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:22::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:23::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:23::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:24::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:26::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:26::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:26::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:26::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:26::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:29::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:29::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:30::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:32::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:32::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:33::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:34::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:34::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:39::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:39::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:40::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:40::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:41::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:41::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:43::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:43::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:46::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:46::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:47::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:48::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:48::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:50::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:36:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:51::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:51::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:36:55::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:36:57::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:36:57::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:36:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:36:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:36:58::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:36:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:36:58::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:00::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:00::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:03::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:03::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:04::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:05::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:05::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:07::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:08::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:08::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:12::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:14::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:14::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:15::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:15::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:17::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:17::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:21::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:21::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:22::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:22::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:23::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:25::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:25::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:29::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:31::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:31::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:32::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:32::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:33::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:38::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:38::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:39::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:39::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:40::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:40::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:40::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:40::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:40::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:42::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:42::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:42::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:42::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:42::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:45::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:45::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:45::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:46::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:47::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:49::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:50::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:50::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:37:54::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:37:56::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:37:56::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:37:57::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:37:57::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:57::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:57::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:57::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:37:59::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:37:59::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:37:59::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:37:59::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:37:59::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:02::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:38:02::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:38:02::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:38:03::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:38:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:38:04::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:38:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:38:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:06::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:06::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:38:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:07::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:07::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:38:11::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:38:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:38:13::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:38:14::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:38:14::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:14::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:14::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:14::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:38:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:16::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:16::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:19::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:38:19::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:38:19::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:38:20::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:38:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:38:21::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:38:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:38:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:23::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:23::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:38:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:24::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:24::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Printer Page width=595.3322834645669 height=841.9181102362205
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::paper width: 42863.92440944882, height: 60618.10393700788
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::print orientation: Potrait
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4194973343488195x0.9610169491525424
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 20.0x3.0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 1
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting scale to 0.4101751713632902x0.9396610169491526
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::Setting translate to 0.0x40.0
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::current pageIndex: 2
+2023-10-16 15:38:28::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:38:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:38:30::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:38:31::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-16 15:38:31::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:31::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:31::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:31::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:38:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:33::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:33::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-16 15:38:35::[Thread-0]::DEBUG::TinyBioPrintLogger::PrintPermanentPassFailed
+javax.imageio.IIOException: Caught exception during read: 
+	at java.desktop/com.sun.imageio.plugins.png.PNGImageReader.read(PNGImageReader.java:1826)
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1468)
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1420)
+	at com.tinnybioprint.config.PrinterConfigApp.printPermanentPass(PrinterConfigApp.java:232)
+	at com.tinnybioprint.config.PrinterConfigApp.lambda$setUpThreads$0(PrinterConfigApp.java:339)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ThreadDeath: null
+	at java.base/java.lang.Thread.stop(Thread.java:942)
+	at com.tinnybioprint.config.PrinterConfigApp$2.actionPerformed(PrinterConfigApp.java:577)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-10-16 15:38:35::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-16 15:38:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-16 15:38:37::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-16 15:38:37::[Thread-0]::ERROR::TinyBioPrintLogger::SendAckFailed
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1999)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:541)
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119)
+	at com.tinnybioprint.config.PrinterConfigApp.sendAcknowledgement(PrinterConfigApp.java:744)
+	at com.tinnybioprint.config.PrinterConfigApp.lambda$setUpThreads$0(PrinterConfigApp.java:375)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-16 15:38:38::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-16 15:38:38::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-16 15:38:38::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-16 15:38:38::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-16 15:38:38::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure

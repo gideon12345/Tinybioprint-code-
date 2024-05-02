@@ -1,0 +1,53 @@
+2023-10-11 08:23:08::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::Testing file logging...
+2023-10-11 08:23:33::[Thread-1]::DEBUG::TinyBioPrintLogger::New Temp Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=t
+2023-10-11 08:23:33::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-11 08:23:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-11 08:23:38::[Thread-1]::DEBUG::TinyBioPrintLogger::Temp Worker Response:{"status":"success","urls":[]}
+2023-10-11 08:23:38::[Thread-1]::DEBUG::TinyBioPrintLogger::Temp Worker Response Status:success
+2023-10-11 08:23:38::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-11 08:23:47::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-11 08:23:47::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-11 08:23:47::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:47::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:47::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:47::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:47::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:47::[Thread-1]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:47::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:47::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-11 08:23:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:49::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:49::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:49::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-11 08:23:49::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:49::[Thread-1]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:49::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:49::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:51::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-11 08:23:51::[Thread-1]::DEBUG::TinyBioPrintLogger::New Temp Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=t
+2023-10-11 08:23:53::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response:{"status":"success","urls":[]}
+2023-10-11 08:23:53::[Thread-1]::DEBUG::TinyBioPrintLogger::Temp Worker Response:{"status":"success","urls":[]}
+2023-10-11 08:23:53::[Thread-0]::DEBUG::TinyBioPrintLogger::Perm Worker Response Status:success
+2023-10-11 08:23:53::[Thread-1]::DEBUG::TinyBioPrintLogger::Temp Worker Response Status:success
+2023-10-11 08:23:54::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-11 08:23:54::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackReceived
+2023-10-11 08:23:54::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:54::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:54::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:54::[Thread-1]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:54::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:54::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:54::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:54::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:56::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-11 08:23:56::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn to:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=ackPrinted
+2023-10-11 08:23:56::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:56::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response:{"status":"failure"}
+2023-10-11 08:23:56::[Thread-0]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:56::[Thread-1]::DEBUG::TinyBioPrintLogger::strResponse:{"status":"failure"}
+2023-10-11 08:23:56::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:56::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response json obj:{"status":"failure"}
+2023-10-11 08:23:56::[Thread-0]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure
+2023-10-11 08:23:56::[Thread-1]::DEBUG::TinyBioPrintLogger::SendAckn Response Status:failure

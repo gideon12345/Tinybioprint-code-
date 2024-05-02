@@ -1,0 +1,613 @@
+2023-10-19 14:00:49::[AWT-EventQueue-0]::INFO ::BioPrintLogger::DB config file exists! So we check for DB connection!
+2023-10-19 14:01:16::[SwingWorker-pool-1-thread-1]::DEBUG::BioPrintLogger::Difference between old border color date and today is 1 so we hold off on changing the border color!
+2023-10-19 14:01:16::[SwingWorker-pool-1-thread-1]::DEBUG::BioPrintLogger::Login Email found in DB now we check for password.
+2023-10-19 14:01:16::[SwingWorker-pool-1-thread-1]::INFO ::BioPrintLogger::Logging in attempt result code: 200
+2023-10-19 14:01:16::[AWT-EventQueue-0]::INFO ::BioPrintLogger::Logging in attempt error message: null
+2023-10-19 14:01:16::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::listOfStringPrivilage: [23, 75, 88, 86]
+2023-10-19 14:01:17::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::station: 2
+2023-10-19 14:01:17::[AWT-EventQueue-0]::INFO ::BioPrintLogger::fingers to capture during biometrics capture: Thumbs
+2023-10-19 14:01:17::[AWT-EventQueue-0]::INFO ::BioPrintLogger::printer setup to use: Microsoft Print to PDF
+2023-10-19 14:01:17::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::profile: {
+  "id" : "833",
+  "name" : "BWIRE HUMPHREY OKOCHI",
+  "email" : "BWIRE.OKOCHI@KAA.GO.KE",
+  "access" : "24",
+  "active" : "1",
+  "regiond" : "11",
+  "regionName" : "Jomo Kenyatta International Airport",
+  "station_id" : "2",
+  "stationNam" : "Jomo Kenyatta International Airport",
+  "airportLevel" : "1",
+  "attempts" : "0",
+  "mainUserId" : "1003631",
+  "userGroup" : "23,75,88,86",
+  "role" : "24",
+  "message" : 200
+}
+2023-10-19 14:01:17::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Waiting 30 seconds before pulling permits for printing...
+2023-10-19 14:01:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:01:32::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:01:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:01:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:01:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:01:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:01:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:01:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:01:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:01:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:01:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:01:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:01:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:01:39::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:01:39::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:01:39::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:01:39::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:01:39::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:01:47::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:01:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:01:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:01:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:01:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Starting the Syncing Process....
+2023-10-19 14:01:48::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::final get biometrics url: http://10.1.0.196///mwclient//index.php?type=irequest&lid=0&rid=11&aid=2
+2023-10-19 14:01:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temporary biometrics returned json string:  {"status":200,"more_status":0,"message":"Success"}"
+
+2023-10-19 14:01:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temp biometrics json object: {"more_status":0,"message":"Success","status":200}
+2023-10-19 14:01:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temp biometrics more status: 0
+2023-10-19 14:01:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::inside if...
+2023-10-19 14:01:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::inside trye....
+2023-10-19 14:01:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::done with syncData...
+2023-10-19 14:01:54::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:01:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:01:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:01:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:01:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:01:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:01:57::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:01:57::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:01:57::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:01:57::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:01:57::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:01:57::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:02:00::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:02:00::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:02:00::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:02:00::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:02:00::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:02:05::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing Permanent Permits next...
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync permanent printing templates response: {"status":200,"message":"success","templates":[]}
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get templates response object: {"templates":[],"message":"success","status":200}
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::templates json array: []
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::listOfIds: [101, 108, 103, 122, 102, 111, 0, 121, 107, 104, 118, 127, 129, 0, 0, 0, 130, 132, 109, 134, 0, 0, 0, 0, 141, 142, 146, 147, 148, 149, 150, 151, 153, 154, 157, 158, 159, 160, 162, 161, 163, 164, 165, 166, 167, 172]
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Synced Printing Templates for Permanent Permits successfully!
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing! DB is connected...
+2023-10-19 14:02:07::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** SYNCING URL IS: http://idms.kaa.go.ke/mwclient/index.php?type=iprintrequest&rid=11&aid=2&lid=0
+2023-10-19 14:02:09::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** result string from web: 
+ {"status":200,"more_status":0,"message":"Success"}
+
+2023-10-19 14:02:09::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** jsonObject: {"more_status":0,"message":"Success","status":200}
+2023-10-19 14:02:09::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Sync of permanent permits completed
+2023-10-19 14:02:09::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing IN ---- check console
+2023-10-19 14:02:09::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::bookingsInsert: true
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:02:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:02:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync bioprint users: http://10.1.0.196/mwclient/index5.php?type=ibiousers&aid=2
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:02:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync BioPrint users response body: {"status":200,"message":"success","users":[]}
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::json object: {"message":"success","users":[],"status":200}
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::usersArr: []
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::listOfIds: [1001489, 1001628, 1001483, 1001773, 1001775, 1001536, 1001477, 1001523, 1001095, 1001487, 1001774, 1002157, 1002286, 1001094, 1002209, 1002306, 1002081, 1002107, 1002119, 1002120, 1002143, 1002144, 1002156, 1002164, 1002206, 1002207, 1002208, 1002211, 1002311, 1002347, 1001098, 1001520, 1002005, 1002285, 1002316, 1002317, 1001100, 1001465, 1001475, 1001479, 1001498, 1001499, 1001466, 1001473, 1001538, 1001478, 1001488, 1001490, 1001480, 1001489, 1002583, 1002575, 1002630, 1002717, 1002715, 1002714, 1002970, 1002969, 1002983, 1002711, 1002712, 1002968, 1002971, 1003117, 1003118, 1003206, 1002718, 1003267, 1003330, 1003426, 1002713, 1003448, 1003390, 1003456, 1002710, 1003464, 1003642, 1003640, 1003625, 1003628, 1003631, 1003655, 1003626, 1002716, 1003664, 1003629, 1003627, 1002971, 1004026, 1004143, 1004145, 1004150]
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Synced BioPrint Users successfully!
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing of Permanent permits completed successfully!
+2023-10-19 14:02:18::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Waiting 30 seconds before pulling permits for printing...
+2023-10-19 14:02:19::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:02:19::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:02:19::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:02:19::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:02:19::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:02:34::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:02:35::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:02:36::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:02:38::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:02:38::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:02:38::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:02:38::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:02:38::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:02:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:02:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:02:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:02:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:02:48::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Starting the Syncing Process....
+2023-10-19 14:02:48::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::final get biometrics url: http://10.1.0.196///mwclient//index.php?type=irequest&lid=0&rid=11&aid=2
+2023-10-19 14:02:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temporary biometrics returned json string:  {"status":200,"more_status":0,"message":"Success"}"
+
+2023-10-19 14:02:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temp biometrics json object: {"more_status":0,"message":"Success","status":200}
+2023-10-19 14:02:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temp biometrics more status: 0
+2023-10-19 14:02:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::inside if...
+2023-10-19 14:02:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::inside trye....
+2023-10-19 14:02:50::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::done with syncData...
+2023-10-19 14:02:53::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:02:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:02:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:02:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:02:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:02:55::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:02:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:02:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:02:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:02:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:02:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:02:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:02:58::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:02:58::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:02:58::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:02:58::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:02:58::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:03:04::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing Permanent Permits next...
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync permanent printing templates response: {"status":200,"message":"success","templates":[]}
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get templates response object: {"templates":[],"message":"success","status":200}
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::templates json array: []
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::listOfIds: [101, 108, 103, 122, 102, 111, 0, 121, 107, 104, 118, 127, 129, 0, 0, 0, 130, 132, 109, 134, 0, 0, 0, 0, 141, 142, 146, 147, 148, 149, 150, 151, 153, 154, 157, 158, 159, 160, 162, 161, 163, 164, 165, 166, 167, 172]
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Synced Printing Templates for Permanent Permits successfully!
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing! DB is connected...
+2023-10-19 14:03:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** SYNCING URL IS: http://idms.kaa.go.ke/mwclient/index.php?type=iprintrequest&rid=11&aid=2&lid=0
+2023-10-19 14:03:08::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** result string from web: 
+ {"status":200,"more_status":0,"message":"Success"}
+
+2023-10-19 14:03:08::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** jsonObject: {"more_status":0,"message":"Success","status":200}
+2023-10-19 14:03:08::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Sync of permanent permits completed
+2023-10-19 14:03:08::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing IN ---- check console
+2023-10-19 14:03:08::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::bookingsInsert: true
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:03:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:03:14::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync bioprint users: http://10.1.0.196/mwclient/index5.php?type=ibiousers&aid=2
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:03:15::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync BioPrint users response body: {"status":200,"message":"success","users":[]}
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::json object: {"message":"success","users":[],"status":200}
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::usersArr: []
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::listOfIds: [1001489, 1001628, 1001483, 1001773, 1001775, 1001536, 1001477, 1001523, 1001095, 1001487, 1001774, 1002157, 1002286, 1001094, 1002209, 1002306, 1002081, 1002107, 1002119, 1002120, 1002143, 1002144, 1002156, 1002164, 1002206, 1002207, 1002208, 1002211, 1002311, 1002347, 1001098, 1001520, 1002005, 1002285, 1002316, 1002317, 1001100, 1001465, 1001475, 1001479, 1001498, 1001499, 1001466, 1001473, 1001538, 1001478, 1001488, 1001490, 1001480, 1001489, 1002583, 1002575, 1002630, 1002717, 1002715, 1002714, 1002970, 1002969, 1002983, 1002711, 1002712, 1002968, 1002971, 1003117, 1003118, 1003206, 1002718, 1003267, 1003330, 1003426, 1002713, 1003448, 1003390, 1003456, 1002710, 1003464, 1003642, 1003640, 1003625, 1003628, 1003631, 1003655, 1003626, 1002716, 1003664, 1003629, 1003627, 1002971, 1004026, 1004143, 1004145, 1004150]
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Synced BioPrint Users successfully!
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing of Permanent permits completed successfully!
+2023-10-19 14:03:16::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Waiting 30 seconds before pulling permits for printing...
+2023-10-19 14:03:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:03:17::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:03:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:03:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:03:17::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:03:32::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:03:33::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:03:34::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:03:37::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:03:37::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:03:37::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:03:37::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:03:37::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:03:46::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:03:47::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:03:47::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:03:47::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:03:47::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Starting the Syncing Process....
+2023-10-19 14:03:47::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::final get biometrics url: http://10.1.0.196///mwclient//index.php?type=irequest&lid=0&rid=11&aid=2
+2023-10-19 14:03:49::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temporary biometrics returned json string:  {"status":200,"more_status":0,"message":"Success"}"
+
+2023-10-19 14:03:49::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temp biometrics json object: {"more_status":0,"message":"Success","status":200}
+2023-10-19 14:03:49::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get temp biometrics more status: 0
+2023-10-19 14:03:49::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::inside if...
+2023-10-19 14:03:49::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::inside trye....
+2023-10-19 14:03:49::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::done with syncData...
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:03:52::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:03:53::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:03:53::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:03:53::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:03:53::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:03:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:03:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:03:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:03:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:03:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:03:54::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:03:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:03:56::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:03:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:03:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:03:56::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...
+2023-10-19 14:04:01::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing Permanent Permits next...
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync permanent printing templates response: {"status":200,"message":"success","templates":[]}
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::get templates response object: {"templates":[],"message":"success","status":200}
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::templates json array: []
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::listOfIds: [101, 108, 103, 122, 102, 111, 0, 121, 107, 104, 118, 127, 129, 0, 0, 0, 130, 132, 109, 134, 0, 0, 0, 0, 141, 142, 146, 147, 148, 149, 150, 151, 153, 154, 157, 158, 159, 160, 162, 161, 163, 164, 165, 166, 167, 172]
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Synced Printing Templates for Permanent Permits successfully!
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing! DB is connected...
+2023-10-19 14:04:03::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** SYNCING URL IS: http://idms.kaa.go.ke/mwclient/index.php?type=iprintrequest&rid=11&aid=2&lid=0
+2023-10-19 14:04:05::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** result string from web: 
+ {"status":200,"more_status":0,"message":"Success"}
+
+2023-10-19 14:04:05::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::getNewBatchesPrints() *** jsonObject: {"more_status":0,"message":"Success","status":200}
+2023-10-19 14:04:05::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Sync of permanent permits completed
+2023-10-19 14:04:05::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing IN ---- check console
+2023-10-19 14:04:06::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::bookingsInsert: true
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: https://google.com
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Internet is connected!
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::mUri: http://10.1.0.196/
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::INFO ::BioPrintLogger::Remote Server is connected!
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Successfully connected to remote web server using SSH! We can now upload BioCaptured images!
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::********************************************************
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Beginning to upload biometric images...
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 39309580
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 39309580 has category PERMANENT!
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 25871550
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 25871550 has category PERMANENT!
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: HB964423
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant HB964423 has category PERMANENT!
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploading biometric images for national ID: 11874848
+2023-10-19 14:04:11::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Applicant 11874848 has category PERMANENT!
+2023-10-19 14:04:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\\11874848\photos\1697033355973_11874848.JPG to remote web server
+2023-10-19 14:04:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\signature\1697033409464_11874848.png to remote web server
+2023-10-19 14:04:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848RIGHT_THUMB.png to remote web server
+2023-10-19 14:04:13::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync bioprint users: http://10.1.0.196/mwclient/index5.php?type=ibiousers&aid=2
+2023-10-19 14:04:13::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading C:\BioPrint\BioPhotos\11874848\fingerprints\11874848LEFT_THUMB.png to remote web server
+2023-10-19 14:04:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::uploading images returns: true
+2023-10-19 14:04:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Exited sftpChannel...
+2023-10-19 14:04:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh channel...
+2023-10-19 14:04:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Upload of images successfull!
+2023-10-19 14:04:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios requestBody: {"id":29810,"applicantId":"11874848","right_fore":"null","right_originalcapture":"null","right_little":"null","right_middle":"null","right_ring":"null","right_thumb":"11874848RIGHT_THUMB.png","left_fore":"null","left_little":"null","left_middle":"null","left_ring":"null","left_thumb":"11874848LEFT_THUMB.png","left_originalcapture":"null","thumb_capture":"","imageURL":"1697033355973_11874848.JPG","signatureURL":"1697033409464_11874848.png","capture_staffid":"24204142","capture_timestamp":"2023-10-11 17:10:10.0","is_amputee":0,"is_juvenile":0,"is_partial_amputee":0,"sync_staffid":"24204142","capture_firstname":"SALIM","capture_lastname":"H.","sync_firstname":"SALIM","sync_lastname":"H.","sync_timestamp":"2023-10-11 17:10:10.0","fingerprint_status":1,"signature_status":1,"image_status":1,"sync_status":1,"excempt_reason":"null","capture_category":"PERMANENT","application_no":"PAAAA0000632","rid":"11","aid":"2","lid":"0"}
+2023-10-19 14:04:14::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios request: http://10.1.0.196/mwclient/index5.php?type=ipermanentcomplete POST
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::sync BioPrint users response body: {"status":200,"message":"success","users":[]}
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::json object: {"message":"success","users":[],"status":200}
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::usersArr: []
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::listOfIds: [1001489, 1001628, 1001483, 1001773, 1001775, 1001536, 1001477, 1001523, 1001095, 1001487, 1001774, 1002157, 1002286, 1001094, 1002209, 1002306, 1002081, 1002107, 1002119, 1002120, 1002143, 1002144, 1002156, 1002164, 1002206, 1002207, 1002208, 1002211, 1002311, 1002347, 1001098, 1001520, 1002005, 1002285, 1002316, 1002317, 1001100, 1001465, 1001475, 1001479, 1001498, 1001499, 1001466, 1001473, 1001538, 1001478, 1001488, 1001490, 1001480, 1001489, 1002583, 1002575, 1002630, 1002717, 1002715, 1002714, 1002970, 1002969, 1002983, 1002711, 1002712, 1002968, 1002971, 1003117, 1003118, 1003206, 1002718, 1003267, 1003330, 1003426, 1002713, 1003448, 1003390, 1003456, 1002710, 1003464, 1003642, 1003640, 1003625, 1003628, 1003631, 1003655, 1003626, 1002716, 1003664, 1003629, 1003627, 1002971, 1004026, 1004143, 1004145, 1004150]
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Synced BioPrint Users successfully!
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::INFO ::BioPrintLogger::Syncing of Permanent permits completed successfully!
+2023-10-19 14:04:15::[SwingWorker-pool-1-thread-2]::DEBUG::BioPrintLogger::Waiting 30 seconds before pulling permits for printing...
+2023-10-19 14:04:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::sendPermitBios response body: Duplicate entry 'PAAAA0000632' for key 'online_vetting.application_no'
+2023-10-19 14:04:16::[SwingWorker-pool-1-thread-3]::ERROR::BioPrintLogger::sendPermitBios exception: 
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:507)
+	at org.json.JSONObject.<init>(JSONObject.java:222)
+	at org.json.JSONObject.<init>(JSONObject.java:406)
+	at ShowFrames.MainActivity.sendPermitBios(MainActivity.java:1084)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1156)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity.syncBioCaptureImages(MainActivity.java:1186)
+	at ShowFrames.MainActivity.callSyncBio(MainActivity.java:1205)
+	at ShowFrames.MainActivity$2.doInBackground(MainActivity.java:411)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-10-19 14:04:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Disconnected ssh session...
+2023-10-19 14:04:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Uploaded Biometrics images successfully!
+2023-10-19 14:04:16::[SwingWorker-pool-1-thread-3]::DEBUG::BioPrintLogger::Waiting 15 seconds before uploading biometric images...

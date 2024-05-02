@@ -1,0 +1,10 @@
+2023-10-11 11:32:57::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::Testing file logging...
+2023-10-11 11:32:59::[Thread-0]::DEBUG::TinyBioPrintLogger::New Perm Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=p
+2023-10-11 11:32:59::[Thread-1]::DEBUG::TinyBioPrintLogger::New Temp Worker Started at:http://idmsdev.kaa.go.ke/main/mwclient/index5.php?type=getpermit&fid=6&ptype=t
+2023-10-11 11:33:06::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Perm PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-11 11:33:08::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-11 11:33:08::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-11 11:33:12::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-11 11:33:13::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-11 11:33:14::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn
+2023-10-11 11:33:14::[AWT-EventQueue-0]::DEBUG::TinyBioPrintLogger::SelectedPrinter For:Temp PrinterName:Hewlett-Packard HP Color LaserJet M452dn

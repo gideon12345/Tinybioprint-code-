@@ -1,0 +1,32 @@
+2023-10-19 13:12:05::[AWT-EventQueue-0]::INFO ::BioPrintLogger::DB config file doesn't exist!
+2023-10-19 13:20:51::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::Conn String = jdbc:mysql://10.1.0.198:3306/hqstage?zeroDateTimeBehavior=convertToNull&jdbcCompliantTruncation=false&useSSL=false
+2023-10-19 13:20:51::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::Conn String = bioprint
+2023-10-19 13:20:51::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::Conn String = Katc865@*
+2023-10-19 13:20:52::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::Connection returned com.mysql.jdbc.JDBC4Connection@4516d83c
+2023-10-19 13:20:58::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::System Vars file created successfully!
+2023-10-19 13:22:39::[SwingWorker-pool-1-thread-1]::DEBUG::BioPrintLogger::Difference between old border color date and today is 1 so we hold off on changing the border color!
+2023-10-19 13:22:39::[SwingWorker-pool-1-thread-1]::DEBUG::BioPrintLogger::Login Email found in DB now we check for password.
+2023-10-19 13:22:39::[SwingWorker-pool-1-thread-1]::INFO ::BioPrintLogger::Logging in attempt result code: 200
+2023-10-19 13:22:39::[AWT-EventQueue-0]::INFO ::BioPrintLogger::Logging in attempt error message: null
+2023-10-19 13:22:39::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::listOfStringPrivilage: [23, 73, 74]
+2023-10-19 13:22:40::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::station: 2
+2023-10-19 13:22:40::[AWT-EventQueue-0]::INFO ::BioPrintLogger::fingers to capture during biometrics capture: Thumbs
+2023-10-19 13:22:40::[AWT-EventQueue-0]::INFO ::BioPrintLogger::printer setup to use: Microsoft Print to PDF
+2023-10-19 13:22:40::[AWT-EventQueue-0]::DEBUG::BioPrintLogger::profile: {
+  "id" : "792",
+  "name" : "ERICA MATHIS ALEXA STEIN",
+  "email" : "BIKIRO@MAILINATOR.COM",
+  "access" : "24",
+  "active" : "1",
+  "regiond" : "11",
+  "regionName" : "Jomo Kenyatta International Airport",
+  "station_id" : "2",
+  "stationNam" : "Jomo Kenyatta International Airport",
+  "airportLevel" : "2",
+  "attempts" : "0",
+  "mainUserId" : "1002583",
+  "userGroup" : "23,73,74",
+  "role" : "24",
+  "message" : 200
+}
+2023-10-19 13:22:43::[AWT-EventQueue-0]::ERROR::BioPrintLogger::java.sql.SQLException: Invalid value for getInt() - 'BY6RHCCH2'
